@@ -15,6 +15,9 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - The West region contributes the highest sales performance
 - Forecasting results indicate stable short-term sales behavior
 
+## Dashboard Preview
+![Dashboard Preview](dashboard-preview)
+
 ## Tools & Technologies
 - Power BI Desktop
 - Power Query
