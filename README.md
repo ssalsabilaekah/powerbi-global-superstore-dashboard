@@ -16,7 +16,7 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Forecasting results indicate stable short-term sales behavior
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview)
+![Dashboard Preview](dashboard-preview.jpg)
 
 ## Tools & Technologies
 - Power BI Desktop
