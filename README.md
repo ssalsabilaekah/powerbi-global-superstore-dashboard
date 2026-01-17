@@ -21,9 +21,6 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - DAX Measures
 - Time Series Analysis
 
-## Dashboard Preview
-![Dashboard Preview]([dashboard-preview.png](https://drive.google.com/file/d/1C0u5rGXK-OfEz6EH3jGOAeJuMDz0HJUx/view?usp=sharing))
-
 ## Author
 **Salsabila Eka Hariadi**  
 Aspiring Data Analyst | Statistics Background
