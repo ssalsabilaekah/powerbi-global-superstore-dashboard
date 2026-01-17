@@ -22,7 +22,7 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Time Series Analysis
 
 ## Dashboard Preview
-![Dashboard Preview]([dashboard-preview.png](https://github.com/ssalsabilaekah/powerbi-global-superstore-dashboard/blob/main/dashboard-preview.jpg))
+![Dashboard Preview]([dashboard-preview.png](https://drive.google.com/file/d/1C0u5rGXK-OfEz6EH3jGOAeJuMDz0HJUx/view?usp=sharing))
 
 ## Author
 **Salsabila Eka Hariadi**  
